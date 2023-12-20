@@ -3,6 +3,7 @@
 # platform: osx-arm64
 bzip2=1.0.8=h93a5062_5
 ca-certificates=2023.11.17=hf0a4a13_0
+colorama=0.4.6=pyhd8ed1ab_0
 freetype=2.12.1=hadb7bae_2
 lcms2=2.16=ha0e7c42_0
 lerc=4.0.0=h9a09cb3_0
@@ -35,6 +36,7 @@ python_abi=3.10=4_cp310
 readline=8.2=h92ec313_1
 setuptools=68.2.2=pyhd8ed1ab_0
 tk=8.6.13=h5083fa2_1
+tqdm=4.66.1=pyhd8ed1ab_0
 tzdata=2023c=h71feb2d_0
 wheel=0.42.0=pyhd8ed1ab_0
 xorg-libxau=1.0.11=hb547adb_0
